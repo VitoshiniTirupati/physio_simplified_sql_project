@@ -36,4 +36,4 @@ This project is a SQL database implementation for **PhysioSimplified**, a platfo
 
 
 # ER Diagram
-![ER Diagram](ER DIAGRAM OF PS SQL PROJECT.png)
+![ER Diagram]([(https://github.com/VitoshiniTirupati/physio_simplified_sql_project/blob/main/ER%20DIAGRAM%20OF%20PS%20SQL%20PROJECT.png?raw=true))])
