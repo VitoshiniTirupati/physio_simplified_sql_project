@@ -36,4 +36,5 @@ This project is a SQL database implementation for **PhysioSimplified**, a platfo
 
 
 # ER Diagram
-![ER Diagram](ER_diagram.png)
+![ER Diagram](images/ER_diagram.png)
+
